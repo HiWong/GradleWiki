@@ -29,7 +29,7 @@
 
 微信: HeadToTheCloud, 也可扫码加我，拉你进群讨论(群人数已超100人)
 
-
+![wechat](https://github.com/HiWong/GradleWiki/blob/master/wechat.jpeg)
 
 
 
