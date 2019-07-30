@@ -1,0 +1,4 @@
+include ':app', ':buildSrc',
+        ':common-component:webview',
+        ':commonb-biz:applemodule', 
+        ':common-app:account'
