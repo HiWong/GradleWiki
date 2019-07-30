@@ -27,7 +27,7 @@
 
 邮箱: bettarwang@163.com
 
-微信: HeadToTheCloud, 也可扫码加我，拉你进群讨论(群人数已超100人)
+微信: HeadToTheCloud, 也可扫码加我，拉你进群讨论(群人数已超190人)
 
 ![wechat](https://github.com/HiWong/GradleWiki/blob/master/wechat.jpeg)
 
